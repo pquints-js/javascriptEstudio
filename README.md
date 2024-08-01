@@ -15,7 +15,7 @@ var estatura = 1.82
 
 
 
-/* alert('Hola Poderoso' +  nombre); */ /* concatenacion */
+/* alert('Hola ' +  nombre); */ /* concatenacion */
 console.log('Nombre:' + nombre + '' + typeof nombre); /* typeof te da el tipo de datos conocer el tipo de datos */
 console.log('Edad:' + edad + '' + typeof edad);
 console.log('Presente:' + presenteONo + '' + typeof presenteONo);
